@@ -1,0 +1,120 @@
+﻿  controller.cpp
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(790,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(783): message : во время компиляции функции-члена класс шаблон "DynString<char>::DynString(std::string)"
+E:\OOP\TElikeVIM\TElikeVIM\controller.cpp(51): message : выполняется компиляция ссылки на экземпляр шаблон функции "DynString<char>::DynString(std::string)"
+E:\OOP\TElikeVIM\TElikeVIM\main_had.h(129): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "DynString<char>"
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(949,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(946): message : во время компиляции функции-члена класс шаблон "DynString<char> &DynString<char>::operator =(DynString<char>)"
+E:\OOP\TElikeVIM\TElikeVIM\controller.cpp(265): message : выполняется компиляция ссылки на экземпляр шаблон функции "DynString<char> &DynString<char>::operator =(DynString<char>)"
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(1130,24): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(1129): message : во время компиляции функции-члена класс шаблон "void DynString<char>::erase(int,size_t)"
+E:\OOP\TElikeVIM\TElikeVIM\controller.cpp(236): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DynString<char>::erase(int,size_t)"
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(1142,41): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(1140): message : во время компиляции функции-члена класс шаблон "void DynString<char>::append(size_t,T)"
+          with
+          [
+              T=char
+          ]
+E:\OOP\TElikeVIM\TElikeVIM\controller.cpp(140): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DynString<char>::append(size_t,T)"
+          with
+          [
+              T=char
+          ]
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(719,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(714): message : во время компиляции функции-члена класс шаблон "void DynString<char>::ChangeСapacity(size_t)"
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(947): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DynString<char>::ChangeСapacity(size_t)"
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(783): message : во время компиляции функции-члена класс шаблон "DynString<char>::DynString(std::string)"
+E:\OOP\TElikeVIM\TElikeVIM\controller.cpp(51): message : выполняется компиляция ссылки на экземпляр шаблон функции "DynString<char>::DynString(std::string)"
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(723,21): warning C4018: <: несоответствие типов со знаком и без знака
+  model.cpp
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(87,13): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(73,7): warning C4101: c: неиспользованная локальная переменная
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(129,26): warning C4018: >: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(274,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(276,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(301,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(303,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(321,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(323,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(338,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(340,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(547,78): warning C4018: >=: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(670,26): warning C4018: >: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(846,28): warning C4018: >: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(930,38): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(947,38): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(991,29): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(1574,105): warning C4018: <=: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(1578,13): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(1587,10): warning C4018: >=: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(1612,9): warning C4018: >=: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(818,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(811): message : во время компиляции функции-члена класс шаблон "DynString<char>::DynString(size_t,T)"
+          with
+          [
+              T=char
+          ]
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(141): message : выполняется компиляция ссылки на экземпляр шаблон функции "DynString<char>::DynString(size_t,T)"
+          with
+          [
+              T=char
+          ]
+E:\OOP\TElikeVIM\TElikeVIM\main_had.h(129): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "DynString<char>"
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(790,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(783): message : во время компиляции функции-члена класс шаблон "DynString<char>::DynString(std::string)"
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(1015): message : выполняется компиляция ссылки на экземпляр шаблон функции "DynString<char>::DynString(std::string)"
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(949,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(946): message : во время компиляции функции-члена класс шаблон "DynString<char> &DynString<char>::operator =(DynString<char>)"
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(38): message : выполняется компиляция ссылки на экземпляр шаблон функции "DynString<char> &DynString<char>::operator =(DynString<char>)"
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(1130,24): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(1129): message : во время компиляции функции-члена класс шаблон "void DynString<char>::erase(int,size_t)"
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(149): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DynString<char>::erase(int,size_t)"
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(1155,48): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(1152): message : во время компиляции функции-члена класс шаблон "void DynString<char>::append(const T *)"
+          with
+          [
+              T=char
+          ]
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(1189): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DynString<char>::append(const T *)"
+          with
+          [
+              T=char
+          ]
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(1142,41): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(1140): message : во время компиляции функции-члена класс шаблон "void DynString<char>::append(size_t,T)"
+          with
+          [
+              T=char
+          ]
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(1019): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DynString<char>::append(size_t,T)"
+          with
+          [
+              T=char
+          ]
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(1230,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(1229): message : во время компиляции функции-члена класс шаблон "void DynString<char>::substr(int,size_t)"
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(1187): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DynString<char>::substr(int,size_t)"
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(719,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(714): message : во время компиляции функции-члена класс шаблон "void DynString<char>::ChangeСapacity(size_t)"
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(947): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DynString<char>::ChangeСapacity(size_t)"
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(811): message : во время компиляции функции-члена класс шаблон "DynString<char>::DynString(size_t,T)"
+          with
+          [
+              T=char
+          ]
+E:\OOP\TElikeVIM\TElikeVIM\model.cpp(141): message : выполняется компиляция ссылки на экземпляр шаблон функции "DynString<char>::DynString(size_t,T)"
+          with
+          [
+              T=char
+          ]
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(723,21): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  view.cpp
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(153,2): warning C4018: <: несоответствие типов со знаком и без знака
+E:\OOP\TElikeVIM\TElikeVIM\dyn_array.h(152): message : во время компиляции функции-члена класс шаблон "std::ostream &operator <<(std::ostream &,DynString<char> &)"
+E:\OOP\TElikeVIM\TElikeVIM\view.cpp(124): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::ostream &operator <<(std::ostream &,DynString<char> &)"
+E:\OOP\TElikeVIM\TElikeVIM\main_had.h(129): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "DynString<char>"
+  Создание кода...
+E:\OOP\TElikeVIM\TElikeVIM\controller.cpp(341): warning C4715: Controller::navigation_buttons: значение возвращается не при всех путях выполнения
+E:\OOP\TElikeVIM\TElikeVIM\controller.cpp(439): warning C4715: Controller::hex_navigation: значение возвращается не при всех путях выполнения
+KateDrawLib.lib(KateDrawLib.obj) : fatal error LNK1112: тип компьютера модуля "x64" конфликтует с типом целевого компьютера "x86"
